@@ -3,6 +3,8 @@
 ![Tcpdump](https://img.shields.io/badge/Tcpdump-network%20analysis-orange?style=for-the-badge&logo=wireshark)
 ![Iperf3](https://img.shields.io/badge/Iperf3-bandwidth%20test-lightgrey?style=for-the-badge&logo=fastapi)
 ![License](https://img.shields.io/badge/license-GPL--2.0-green?style=for-the-badge)
+![Hping3](https://img.shields.io/badge/Hping3-security%20testing-red?style=for-the-badge&logo=linux)
+
 
 📍 Aqui estão os lugares mais comuns para encontrar ou criar esses badges:
 
