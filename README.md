@@ -81,8 +81,8 @@ containerlab version
 Clone o repositório e acesse o diretório do laboratório:
 
 ```bash
-git clone https://github.com/eduardo849/Files
-cd eduardo
+git clone https://github.com/eduardo849/lab-eduardoGuedes
+cd lab-eduardoGuedes
 ```
 
 ## 🐝 Passo 2 — Deploy da Topologia
@@ -99,7 +99,7 @@ Isso irá:
 Verifique se o lab está rodando:
 
 ```bash
-docker ps --filter "label=containerlab=lab"
+docker ps --filter "label=containerlab=eduardo-lab"
 ```
 
 ---
@@ -108,7 +108,7 @@ docker ps --filter "label=containerlab=lab"
 
 
 ```bash
-docker exec clab-lab-node-a ping -c 3 10.0.0.2
+docker exec clab-eduardo-node-a ping -c 3 10.0.0.2
 ```
 
 **Resultado esperado:** `0% packet loss`  
