@@ -108,7 +108,7 @@ docker ps --filter "label=containerlab=eduardo-lab"
 
 
 ```bash
-docker exec clab-eduardo-node-a ping -c 3 10.0.0.2
+docker exec clab-eduardo-lab-node-a ping -c 3 10.0.0.2
 ```
 
 **Resultado esperado:** `0% packet loss`  
